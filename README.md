@@ -43,3 +43,6 @@ This project is finished.
 UPDATE: As of Visual Studio 2022, the unit tests are broken
 
 ## Screenshots
+![HashTable](https://user-images.githubusercontent.com/49173127/166114348-505e1e3f-116c-41c3-9bfe-091d3fadbe16.png)
+
+![image](https://user-images.githubusercontent.com/49173127/166114331-900bcf28-2c0e-4fed-8b64-0f4510f714ff.png)
