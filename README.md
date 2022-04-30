@@ -1,7 +1,7 @@
 # HashTable
 
 ## Overview
-This program is an implementation of an AVL Tree, which is a self-balancing tree data structure.
+This program is an implementation of a Hash Table, which is a data structure that maps keys to values.
 
 It includes a test suite as a "Native Unit Test C++ project" and the HashTable itself can run in isolation in C++.
 
